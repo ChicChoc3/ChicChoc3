@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChicChoc3
+- 👀 I’m interested in reading, writing, and trying new foods!
+- 🌱 I’m currently learning how to write Python code.
+- 💞️ I’m looking to collaborate on [nothing for now]
+- 📫 How to reach me [sorry, no social media sharing!]
